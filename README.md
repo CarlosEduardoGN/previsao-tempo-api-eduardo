@@ -24,4 +24,6 @@ Execute no Docker Desketop a imagem docker.
 Acesse a URL:
 http://localhost:8000/weather/SaoPaulo
 
+Caso não funcione o acesso execute o docker na porta 8000.
+
 ```
